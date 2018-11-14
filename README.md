@@ -1,2 +1,3 @@
 # tegola-example-data
-data referenced from the tegola.io docs
+
+Data referenced from the tegola.io docs.
